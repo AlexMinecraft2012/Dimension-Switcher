@@ -1,0 +1,15 @@
+{
+  "_fv": 28,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "0",
+    "keyBindingName": "Dimension",
+    "keyBindingCategoryKey": "gameplay",
+    "onKeyPressed": {
+      "name": "DimensionOnKeyPressed"
+    },
+    "onKeyReleased": {
+      "name": "DimensionOnKeyReleased"
+    }
+  }
+}
